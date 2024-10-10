@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 I'm a computer science student with a passion for coding and technology. Currently exploring various areas in ai, algorithms, and data structures.
 
-## 🌍 About Me
+# 🌍 About Me
 
 - 🎓 Currently studying at Muthoot Institute of Technology and Science, Varikoli
 - 💻 Interested in web development, mobile apps, and AI
 - 🌱 Always eager to learn new languages and technologies
 
-## 🔧 Technologies & Tools
+# 🔧 Technologies & Tools
 
 - **Languages:** Python, Java, C
 - **Frameworks/Libraries:** React, Flask
@@ -36,7 +36,7 @@ I'm a computer science student with a passion for coding and technology. Current
 - Gen AI and how to incorporate it in real life situations.
 - Designing using Figma and Canva.
   
-## 📫 Get in Touch
+# 📫 Get in Touch
 
 - [LinkedIn] : www.linkedin.com/in/athishta-p-a-43a7252b3
 - [GitHub] : https://github.com/AsherWood39/
