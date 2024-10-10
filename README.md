@@ -27,7 +27,6 @@ I'm a computer science student with a passion for coding and technology. Current
 ### 🔧 Technologies & Tools
 
 - **Languages:** Python, Java, C
-- **Frameworks/Libraries:** React, Flask
 - **Tools:** Git, Visual Studio Code
 - **Databases:** MySQL, MongoDB
 
