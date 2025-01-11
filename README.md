@@ -34,6 +34,10 @@ I'm a computer science student with a passion for coding and technology. Current
 
 - Gen AI and how to incorporate it in real life situations.
 - Designing using Figma and Canva.
+
+### 🎓 Google Skill Boost Profile 
+
+- [Public URL] : https://www.cloudskillsboost.google/public_profiles/fb4feb7b-7db6-4f80-9fc9-54d4c95c2fea
   
 ### 📫 Get in Touch
 
