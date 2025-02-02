@@ -28,7 +28,7 @@ I'm a computer science student with a passion for coding and technology. Current
 
 - **Languages:** Python, Java, C
 - **Tools:** Git, Visual Studio Code
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL
 
 ### 🌱 I’m currently getting my hands on ...
 
