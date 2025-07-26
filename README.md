@@ -26,7 +26,7 @@ I'm a computer science student with a passion for coding and technology. Current
 
 ### 🔧 Technologies & Tools
 
-- **Languages:** Python, Java, C
+- **Languages:** Python, Java, C, Dart(Flutter)
 - **Tools:** Git, Visual Studio Code
 - **Databases:** MySQL
 
